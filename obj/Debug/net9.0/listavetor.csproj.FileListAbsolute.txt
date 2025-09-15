@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\bin\Debug\net9.0\listavetor.exe
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\bin\Debug\net9.0\listavetor.deps.json
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\bin\Debug\net9.0\listavetor.runtimeconfig.json
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\bin\Debug\net9.0\listavetor.dll
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\bin\Debug\net9.0\listavetor.pdb
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.dll
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\refint\listavetor.dll
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.pdb
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\listavetor.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\Faculdade\C#\listavetor\listavetor\obj\Debug\net9.0\ref\listavetor.dll
